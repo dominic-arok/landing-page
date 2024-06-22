@@ -1,0 +1,1 @@
+This project is a landing page. It includes many of the elements of a modern webpage. It was created using HTML and CSS for the purpose of practicing those skills.
